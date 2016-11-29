@@ -14,7 +14,7 @@ public class TwoDArrayPractice
 		int[][] createdArr = create2D();
 		printArray(createdArr);
 		
-		int[][] nArray = create2DWithN(1000);
+		int[][] nArray = create2DWithN(100);
 		printArray(nArray);
 		printNice(nArray);
 	}
